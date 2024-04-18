@@ -7,9 +7,11 @@ inclua biblioteca Objetos --> o
 inclua biblioteca Tipos --> t
 inclua biblioteca Calendario --> c
 	
+
 cadeia idioma = "ptBr"
 logico logado = falso
 
+//
 funcao inicio()
 {
 	enquanto(verdadeiro){
